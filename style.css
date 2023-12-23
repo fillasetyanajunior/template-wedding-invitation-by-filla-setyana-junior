@@ -464,13 +464,6 @@ body {
       grid-row-end: 11;
 }
 
-.gallery .photo-grid__item--13 {
-      grid-column-start:3;
-      grid-column-end: 5;
-      grid-row-start: 10;
-      grid-row-end: 11;
-}
-
 .gallery .photo-grid__item--14 {
       grid-column-start:5;
       grid-column-end: 7;
@@ -530,13 +523,6 @@ body {
 .gallery .photo-grid__item--22 {
       grid-column-start: 1;
       grid-column-end: 5;
-      grid-row-start: 12;
-      grid-row-end: 13;
-}
-
-.gallery .photo-grid__item--23 {
-      grid-column-start: 5;
-      grid-column-end: 9;
       grid-row-start: 12;
       grid-row-end: 13;
 }
